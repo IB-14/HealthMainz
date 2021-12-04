@@ -67,7 +67,7 @@ The main users of our application will be the hospitals who will act as admins a
 			</p>
 		</td>
     <td>
-      <b>Yashi Shukla</b>
+      <b>Ishan Bhardwaj</b>
 		<p align="center">
 			<img src = https://avatars.githubusercontent.com/u/59660334?v=4" width="150" height="150" alt="Your Name Here (Insert Your Image Link In Src">
 		</p>
